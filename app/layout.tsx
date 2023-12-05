@@ -7,17 +7,17 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://leerob.io'),
+  metadataBase: new URL('https://cancetin.dev'),
   title: {
-    default: 'Lee Robinson',
-    template: '%s | Lee Robinson',
+    default: 'Can Cetin',
+    template: '%s | Can Cetin',
   },
-  description: 'Developer, writer, and creator.',
+  description: 'Web Developer, back-end developer, ai & devops.',
   openGraph: {
-    title: 'Lee Robinson',
-    description: 'Developer, writer, and creator.',
-    url: 'https://leerob.io',
-    siteName: 'Lee Robinson',
+    title: 'Can Cetin',
+    description: 'Web Developer, back-end developer, ai & devops.',
+    url: 'https://cancetin.dev',
+    siteName: 'Can Cetin',
     locale: 'en_US',
     type: 'website',
   },
@@ -33,12 +33,12 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: 'Lee Robinson',
+    title: 'Can Cetin',
     card: 'summary_large_image',
   },
   verification: {
-    google: 'eZSdmzAXlLkKhNJzfgwDqWORghxnJ8qR9_CHdAh5-xw',
-    yandex: '14d2e73487fa6c71',
+    google: 'pT-ast8yNqVQXjga0DoXqfI6Bk9uqPWkhYwATqKampg',
+    //yandex: '14d2e73487fa6c71',
   },
 };
 

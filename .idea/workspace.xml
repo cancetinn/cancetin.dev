@@ -4,150 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ebe2c0f-dee1-4277-a00b-674b0b65f87d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/work/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/work/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/2023.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/backend.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/beginners-guide-to-the-programming-portfolio.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/career.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/community-messaging-fit.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/css-with-react.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/developer-experience-examples.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/devrel-at-vercel.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fonts.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fundamentals-of-video.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/funding-open-source.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/heroku.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/how-stripe-designs-beautiful-websites.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/how-to-print-in-react-using-iframes.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/image-gallery-supabase-tailwind-nextjs.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/javascript.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/loading-placeholder-with-sass.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mailchimp-next-js.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/make-something-developers-want.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/mysql-planetscale.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/nextjs-conf-2022-recap.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/nextjs-firebase-serverless.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/nextjs-sitemap-robots.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/product-engineers.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/react-frameworks.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/react-state-management.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/real-time-post-views.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/rust.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/serverless-redis-nextjs.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/space-invaders-with-python.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/spotify-api-nextjs.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/style-guides-component-libraries-design-systems.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/technical-recruiting-is-broken.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/things-ive-learned-building-nextjs-apps.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/turborepo-design-system-monorepo.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/using-nextjs.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/backend/neon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/backend/og.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/career/banners.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/career/lamp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/career/react-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/career/react-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/career/shirts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/career/swing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/content-marketing-personal-brand/final-views.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/content-marketing-personal-brand/google.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/content-marketing-personal-brand/originally-posted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/content-marketing-personal-brand/reddit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/heroku/2008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/heroku/2011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/heroku/ide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/heroku/platform.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/heroku/trends.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/filming.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/meetups.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/reactathon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/ship.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/smashing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/summit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/home/vercel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/animation-example.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/buttons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/camphor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/color-palette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/css-example.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/salesforce.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/spinning-animation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/typography.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-stripe-designs-beautiful-websites/website.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/how-to-print-in-react-using-iframes/print.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/image-gallery-supabase-tailwind-nextjs/banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/image-gallery-supabase-tailwind-nextjs/supabase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/image-gallery-supabase-tailwind-nextjs/swag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/javascript/edge-runtime.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/loading-placeholder-with-sass/example.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/loading-placeholder-with-sass/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/loading-placeholder-with-sass/final-result.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/loading-placeholder-with-sass/linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mysql-planetscale/checkly-firebase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mysql-planetscale/checkly.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mysql-planetscale/firebase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mysql-planetscale/redis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/nextjs-conf-2022-recap/qna.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-frameworks/evolving.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-frameworks/iceberg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-state-management/amazon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-state-management/context.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-state-management/figma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-state-management/immer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-state-management/nomad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-state-management/redux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/react-state-management/state-machines.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/blog-post-views.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/db-usage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/firebase/step1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/firebase/step2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/firebase/step3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/firebase/step4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/firebase/step5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-time-post-views/testing-database.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/space-invaders-with-python/space-invaders.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/atomize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/component-driven-development.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/component-library.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/design-system.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/design-tokens.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/monorepo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/storybook-docs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/storybook-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/style-guide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/style-guides-component-libraries-design-systems/website.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/tailwind/analytics.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/teach-online/reddit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/alexa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/amazon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/derek.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/katie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/linkedin-bio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/recruiter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/recruiter2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/technical-recruiting-is-broken/recruiter3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/aperture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/diffused.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/exposure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/focal-lengths.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/lighting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/motion-blur.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/peaks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/pop-filter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/resolution.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/shutter-speed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/video/studio.png" beforeDir="false" />
-    </list>
+    <list default="true" id="5ebe2c0f-dee1-4277-a00b-674b0b65f87d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,9 +20,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.10/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2Z7W2JAMSicA0qvNpyqLiWrTv7i" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -183,6 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/can/Desktop/cancetin.dev/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -195,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701773389720</updated>
       <workItem from="1701773391083" duration="2380000" />
+      <workItem from="1701777425265" duration="4897000" />
     </task>
     <servers />
   </component>
