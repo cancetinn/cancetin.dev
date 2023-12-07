@@ -3,6 +3,8 @@ import thirdprofile from 'public/images/home/thirdprofile.jpg';
 import secondprofile from 'public/images/home/secondprofile.jpg';
 import newprofile from 'public/images/home/newprofile.jpg';
 import mrhacker from 'public/images/home/mrhacker.jpeg';
+import fourpic from 'public/images/home/4-picture.jpg';
+import fivepic from 'public/images/home/5-picture.jpg';
 import { Suspense } from 'react';
 import Link from 'next/link';
 
@@ -64,7 +66,7 @@ export default function Page() {
                 <div className="relative h-40 sm:h-80 sm:mb-4">
                     <Image
                         alt="A cheerful young man wearing a cozy sherpa jacket smiles broadly, with a serene landscape and an open car door in the background, suggesting the start of an adventure."
-                        src={thirdprofile}
+                        src={fivepic}
                         fill
                         sizes="(max-width: 768px) 213px, 33vw"
                         priority
@@ -84,7 +86,7 @@ export default function Page() {
                 <div className="relative h-40 mb-4">
                     <Image
                         alt="Me and Guillermo Rauch on stage for Vercel Ship, answering questions from the Next.js community"
-                        src={secondprofile}
+                        src={fourpic}
                         fill
                         sizes="(max-width: 768px) 213px, 33vw"
                         priority
