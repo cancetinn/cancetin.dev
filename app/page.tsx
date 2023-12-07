@@ -3,7 +3,6 @@ import thirdprofile from 'public/images/home/thirdprofile.jpg';
 import secondprofile from 'public/images/home/secondprofile.jpg';
 import newprofile from 'public/images/home/newprofile.jpg';
 import mrhacker from 'public/images/home/mrhacker.jpeg';
-import avatar from 'app/avatar.jpg';
 import { Suspense } from 'react';
 import Link from 'next/link';
 
