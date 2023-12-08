@@ -33,7 +33,7 @@ export default function Page() {
                 hey, I'm Can 👋
             </h1>
             <p className="prose prose-neutral dark:prose-invert">
-                {`Born in 2001 in Turkey, my journey into the digital world began at the age of 6, thanks to my father and our first computer. What started with playing games soon evolved into a passion for web development. During my middle school years, I developed a keen interest in programming. While machine languages didn't captivate me, the realm of web development did. I often refer to myself as the 'son of the web'.`}
+                {`I was born in Adana/Turkey, and my journey into the digital world began at the age of 6, thanks to my father and our first computer. What started with playing games soon evolved into a passion for web development. During my middle school years, I developed a keen interest in programming. While machine languages didn't captivate me, the realm of web development did.`}
             </p>
             <div className="prose prose-neutral dark:prose-invert">
             <p className="prose prose-neutral dark:prose-invert">
