@@ -38,7 +38,6 @@ export const metadata: Metadata = {
   },
   verification: {
     google: 'pT-ast8yNqVQXjga0DoXqfI6Bk9uqPWkhYwATqKampg',
-    //yandex: '14d2e73487fa6c71',
   },
 };
 
