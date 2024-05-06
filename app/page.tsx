@@ -42,8 +42,8 @@ export default function Page() {
                 {` through this link. When asked to choose between frontend and backend development, my admiration lies unequivocally with backend development.`}
             </p>
             </div>
-            <div className="columns-2 sm:columns-3 gap-4 my-8">
-                <div className="relative h-40 mb-4">
+            <div className="grid grid-cols-2 grid-rows-4 sm:grid-rows-3 sm:grid-cols-3 gap-4 my-8">
+                <div className="relative h-40">
                     <Image
                         alt="A confident young man with a casual hairstyle, wearing a white t-shirt and a light jacket, stands with crossed arms in a modern office environment, with the company logo visible in the background."
                         src={newprofile}
@@ -53,28 +53,18 @@ export default function Page() {
                         className="rounded-lg object-cover"
                     />
                 </div>
-                <div className="relative h-80 mb-4 sm:mb-0">
+                <div className="relative sm:row-span-2 row-span-1">
                     <Image
                         alt="A man enveloped in a cozy blanket is focused on coding on his computer, with elegant patterned curtains in the background allowing natural light to illuminate the room."
                         src={mrhacker}
                         fill
                         sizes="(max-width: 768px) 213px, 33vw"
                         priority
-                        className="rounded-lg object-cover object-[-16px] sm:object-center"
-                    />
-                </div>
-                <div className="relative h-40 sm:h-80 sm:mb-4">
-                    <Image
-                        alt="A cheerful young man wearing a cozy sherpa jacket smiles broadly, with a serene landscape and an open car door in the background, suggesting the start of an adventure."
-                        src={fivepic}
-                        fill
-                        sizes="(max-width: 768px) 213px, 33vw"
-                        priority
                         className="rounded-lg object-cover object-top sm:object-center"
                     />
                 </div>
-                <div className="relative h-40 mb-4 sm:mb-0">
-                   <Image
+                <div className="relative">
+                    <Image
                         alt="A cheerful young man wearing a cozy sherpa jacket smiles broadly, with a serene landscape and an open car door in the background, suggesting the start of an adventure."
                         src={secondprofile}
                         fill
@@ -83,20 +73,30 @@ export default function Page() {
                         className="rounded-lg object-cover"
                     />
                 </div>
-                <div className="relative h-40 mb-4">
+                <div className="relative row-span-2">
+                   <Image
+                        alt="A cheerful young man wearing a cozy sherpa jacket smiles broadly, with a serene landscape and an open car door in the background, suggesting the start of an adventure."
+                        src={fivepic}
+                        fill
+                        sizes="(max-width: 768px) 213px, 33vw"
+                        priority
+                        className="rounded-lg object-cover sm:object-center"
+                    />
+                </div>
+                <div className="relative row-span-2">
                     <Image
                         alt="Me and Guillermo Rauch on stage for Vercel Ship, answering questions from the Next.js community"
-                        src={fourpic}
+                        src={thirdprofile}
                         fill
                         sizes="(max-width: 768px) 213px, 33vw"
                         priority
                         className="rounded-lg object-cover"
                     />
                 </div>
-                <div className="relative h-80">
+                <div className="relative h-40">
                     <Image
                         alt="A man in casual attire walks through a lush nursery, surrounded by an array of potted plants and greenery under a bright blue sky."
-                        src={thirdprofile}
+                        src={fourpic}
                         fill
                         sizes="(min-width: 768px) 213px, 33vw"
                         priority
